@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou o Igor Nunes 👋
+**Engenheiro de Produção | Analista de Processos & Requisitos | Automação e IA**
 
-<!--
-**igorncosta94/igorncosta94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Campo Grande - MS  
+🔗 [LinkedIn](https://www.linkedin.com/in/igor-n-044124161/) | ✉️ engigornunes@outlook.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Sobre mim
+Engenheiro de Produção focado no mapeamento, otimização e automação de fluxos operacionais. Tenho experiência em suporte técnico N2/N3 (CRM/ERP), levantamento de requisitos, modelagem BPMN 2.0 e desenvolvimento de automações com n8n e Inteligência Artificial.
+
+---
+
+### 🛠️ Principais Ferramentas & Competências
+- **Processos & Negócios:** BPMN 2.0 (Bizagi Modeler), Levantamento de Requisitos, Mapeamento de Fluxos, Scrum/Kanban.
+- **Automação & Integração:** n8n, Webhooks, APIs REST, Engenharia de Prompts (Agentes de IA).
+- **Sistemas & Dados:** Microsoft Dynamics 365, ERPs, Power BI, MS Excel (VBA).
+
+---
